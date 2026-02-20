@@ -32,7 +32,7 @@ Some things about me...
 ## Some of my favorite University Projects :)
 You can find their code -- and other projects too -- in my repository called Uni.
 
-### [3D Image Render – Computer Architecture]()
+### [3D Image Render – Computer Architecture](https://github.com/montsemar/Uni/tree/886cc2f3c137aebaf61bcb9fc40b08fd00c8aa78/Third%20year/Computer%20Architecture/render-2025-par-p81-13-main)
 > Performance-oriented 3D rendering engine that ray-traces scenes with spheres and cylinders, supporting matte, metallic and refractive materials. Output in PPM format.  
 > `C++23` `CMake` `GoogleTest`
 - Implemented two memory layouts (AOS vs SOA) and benchmarked their impact on cache performance and energy consumption using `perf`
@@ -43,14 +43,14 @@ You can find their code -- and other projects too -- in my repository called Uni
   <p><em>My group's Version</em></p> 
 </div>
 
-### [App for sharing notes between students - Cryptography & Security]()
+### [App for sharing notes between students - Cryptography & Security](https://github.com/montsemar/Uni/tree/886cc2f3c137aebaf61bcb9fc40b08fd00c8aa78/Third%20year/Cryptography/app-criptografia-main)
 > Secure application implementing a full cryptographic stack: user authentication, symmetric/asymmetric encryption, digital signatures, HMAC, and a custom PKI hierarchy.  
 > `Python` `cryptography`
 - Built user registration with password hashing and key derivation; symmetric encryption with AES and asymmetric with RSA/ECC using industry-standard key lengths
 - Implemented HMAC-based message authentication and RSA/ECDSA digital signature generation and verification
 - Deployed a multi-level Public Key Infrastructure (root CA + subordinate CA) to authenticate public keys via X.509 certificates
 
-### [Heuristic Search in Radar Fields – Introduction to AI]()
+### [Heuristic Search in Radar Fields – Introduction to AI](https://github.com/montsemar/Uni/tree/886cc2f3c137aebaf61bcb9fc40b08fd00c8aa78/Second%20Year/AI%20Project/AI_v1)
 > Route planning system for a stealth spy plane navigating a radar-covered map using A* and custom admissible heuristics.  
 > `Python` `NumPy` `NetworkX`
 - Built a detection probability map using the radar equation, multivariate Gaussian distributions, and MinMax scaling
