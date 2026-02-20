@@ -38,8 +38,6 @@ You can find their code -- and other projects too -- in my repository called Uni
 - Applied sequential optimisation techniques: data layout tuning, compiler flags, and scalar code profiling — no multithreading allowed
 - Full ray-tracing pipeline: viewport projection, multi-sample anti-aliasing, gamma correction, and recursive light bouncing
 <div align="center">
-  <img src="render-teacher.png" width="400"/>
-  <p><em>Teacher's Version</em></p> 
   <img src="render-mygroup.png" width="400"/>
   <p><em>My group's Version</em></p> 
 </div>
@@ -57,4 +55,4 @@ You can find their code -- and other projects too -- in my repository called Uni
 - Built a detection probability map using the radar equation, multivariate Gaussian distributions, and MinMax scaling
 - Modelled the search space as a weighted graph and integrated A* (`networkx.astar_path`) with two custom admissible heuristics
 - Implemented high-level POI sequencing combined with local path planning to minimise total radar exposure
-<img src="radar_map.png" width="400"/> <img src="solution_map_0.9.png" width="400"/>
+<img src="radar_map.png" width="300"/> <img src="solution_map_0.9.png" width="300"/>
